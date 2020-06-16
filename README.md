@@ -1,6 +1,6 @@
 Project - Getting and Cleaning Data
 
-The run_analysis.R script does the data preparation and then the 5 steps required in the course project.
+The project.R script does the data preparation and then the 5 steps required in the course project.
 Downloading the dataset</b>
 
 Dataset is downloaded through "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" and extracted under UCI HAR Dataset using unzip() function.
