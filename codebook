@@ -1,0 +1,19 @@
+File with R code "project.R" performs the 7 following steps (in accordance assigned task of course work):
+
+1 - Download data
+
+2 - Read and Convert Data
+
+3 - Divide data into train and test
+
+4 - Rename the data set
+
+5 - Merges the Training and Testing Sets into 1 data set 
+
+6 - Extracts only the measurements on the mean and standard deviation for each measurement.
+
+7 - Uses descriptive activity names to name the activities in the data set
+
+8 - Appropriately labels the data set with descriptive variable names.
+
+9 - Save the tidy data
